@@ -1,0 +1,7 @@
+base   authopenldapkerberos
+author Sebastián Santisi
+email  s@ntisi.com.ar
+date   2021-12-15
+name   OpenLDAP + Kerberos Auth Plugin
+desc   Provides user authentication against a OpenLDAP + Kerberos server using GSSAPI
+url    http://www.dokuwiki.org/plugin:authopenldapkerberos
